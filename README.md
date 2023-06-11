@@ -83,6 +83,10 @@ The Weather App utilizes the following libraries:
 4. Provide an option for users to share the weather information with others through social media or messaging platforms.
 5. Implement push notifications to alert users about significant weather changes or important updates.
 
+## Live Demo
+- Android : https://snack.expo.dev/@git/github.com/Jayeshkarma/Weather-app-Assignment?platform=android
+- IOS : https://snack.expo.dev/@git/github.com/Jayeshkarma/Weather-app-Assignment?platform=ios
+
 ## API
 
 The Weather App utilizes the OpenWeatherMap API to fetch weather data. To use the app, you need to obtain an API key from OpenWeatherMap and replace the `openWeatherKey` variable in the code with your own API key.
